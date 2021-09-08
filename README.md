@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cassique
-- 👀 I’m interested in full stack developing..
-- 🌱 I’m currently learning React..
+- 👀 I’m interested in Java developing..
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me heliceinfantil@gmail.com...
 
